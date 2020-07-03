@@ -1,6 +1,14 @@
 
+function takeOrder() {
+  
+}
+
+
+
+
+
 module.exports = {
-  // takeOrder,
+  takeOrder,
   // refundOrder,
   // listItems,
   // searchOrder
