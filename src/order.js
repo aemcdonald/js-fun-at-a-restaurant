@@ -45,10 +45,14 @@ function listItems(deliveryOrderItemsArray) {
                       //if use emptyString again, make sure to change var in loop
 }
 
+function searchOrder() {
+  
+}
+
 
 module.exports = {
   takeOrder,
   refundOrder,
   listItems,
-  // searchOrder
+  searchOrder
 }
